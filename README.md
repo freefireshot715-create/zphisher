@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- Zphisher --> $. pkg update && pkg upgrade
 
 <p align="center">
   <img src=".github/misc/logo.png">
